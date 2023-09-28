@@ -1,0 +1,17 @@
+<summary fileFormatVersion="101">
+	<methods>
+		<method id="void clear()">
+			<clears>
+				<clear sourceSinkType="Field" AccessPath="[android.util.SparseArray: byte[] data]" />
+			</clears>
+		</method>
+		<method id="java.lang.String toString()">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Field" BaseType="android.util.SparseArray" AccessPath="[android.util.SparseArray: byte[] data]" AccessPathTypes="[byte[]]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		</methods>
+</summary>

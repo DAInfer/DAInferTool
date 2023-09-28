@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.ArrayIndexOutOfBoundsException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.Exception>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.StringIndexOutOfBoundsException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.util.EmptyStackException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java_cup.runtime.Symbol>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.Symbol.<init>:void(int)",
+            "container call count": 0,
+            "function node size": 35,
+            "function edge size": 41,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.Symbol.<init>:void(int, int)",
+            "container call count": 0,
+            "function node size": 37,
+            "function edge size": 45,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.Symbol.<init>:void(int, int, int)",
+            "container call count": 0,
+            "function node size": 30,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.Symbol.<init>:void(int, int, int, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 41,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.Symbol.<init>:void(int, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.Symbol.toString:java.lang.String()",
+            "container call count": 0,
+            "function node size": 43,
+            "function edge size": 45,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.<init>:void()",
+            "container call count": 0,
+            "function node size": 37,
+            "function edge size": 43,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.<init>:void(java_cup.runtime.Scanner)",
+            "container call count": 0,
+            "function node size": 27,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.advance_lookahead:boolean()",
+            "container call count": 0,
+            "function node size": 52,
+            "function edge size": 76,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.cur_err_token:java_cup.runtime.Symbol()",
+            "container call count": 0,
+            "function node size": 57,
+            "function edge size": 84,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.debug_message:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 32,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.debug_parse:java_cup.runtime.Symbol()",
+            "container call count": 10,
+            "function node size": 3401,
+            "function edge size": 8239,
+            "container pre flow size": 9,
+            "container post flow size": 10
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.debug_reduce:void(int, int, int)",
+            "container call count": 0,
+            "function node size": 61,
+            "function edge size": 52,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.debug_shift:void(java_cup.runtime.Symbol)",
+            "container call count": 0,
+            "function node size": 55,
+            "function edge size": 59,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.debug_stack:void()",
+            "container call count": 0,
+            "function node size": 184,
+            "function edge size": 301,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.done_parsing:void()",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.dump_stack:void()",
+            "container call count": 0,
+            "function node size": 230,
+            "function edge size": 397,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.error_recovery:boolean(boolean)",
+            "container call count": 0,
+            "function node size": 649,
+            "function edge size": 1463,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.error_sync_size:int()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 25,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.find_recovery_config:boolean(boolean)",
+            "container call count": 5,
+            "function node size": 326,
+            "function edge size": 600,
+            "container pre flow size": 5,
+            "container post flow size": 5
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.getScanner:java_cup.runtime.Scanner()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.get_action:short(int, int)",
+            "container call count": 0,
+            "function node size": 519,
+            "function edge size": 1199,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.get_reduce:short(int, int)",
+            "container call count": 0,
+            "function node size": 187,
+            "function edge size": 379,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.parse:java_cup.runtime.Symbol()",
+            "container call count": 8,
+            "function node size": 2286,
+            "function edge size": 5515,
+            "container pre flow size": 7,
+            "container post flow size": 8
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.parse_lookahead:void(boolean)",
+            "container call count": 7,
+            "function node size": 3633,
+            "function edge size": 9253,
+            "container pre flow size": 7,
+            "container post flow size": 7
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.read_lookahead:void()",
+            "container call count": 0,
+            "function node size": 202,
+            "function edge size": 408,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.report_error:void(java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 95,
+            "function edge size": 125,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.report_fatal_error:void(java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 78,
+            "function edge size": 119,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.restart_lookahead:void()",
+            "container call count": 0,
+            "function node size": 170,
+            "function edge size": 324,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.scan:java_cup.runtime.Symbol()",
+            "container call count": 0,
+            "function node size": 149,
+            "function edge size": 309,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.setScanner:void(java_cup.runtime.Scanner)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.shift_under_error:boolean()",
+            "container call count": 1,
+            "function node size": 89,
+            "function edge size": 143,
+            "container pre flow size": 1,
+            "container post flow size": 1
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.syntax_error:void(java_cup.runtime.Symbol)",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 32,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.try_parse_ahead:boolean(boolean)",
+            "container call count": 0,
+            "function node size": 1866,
+            "function edge size": 4537,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.unpackFromStrings:short[][](java.lang.String[])",
+            "container call count": 0,
+            "function node size": 1278,
+            "function edge size": 3348,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.unrecovered_syntax_error:void(java_cup.runtime.Symbol)",
+            "container call count": 0,
+            "function node size": 62,
+            "function edge size": 88,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.lr_parser.user_init:void()",
+            "container call count": 0,
+            "function node size": 26,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.virtual_parse_stack.<init>:void(java.util.Stack)",
+            "container call count": 0,
+            "function node size": 90,
+            "function edge size": 150,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.virtual_parse_stack.empty:boolean()",
+            "container call count": 0,
+            "function node size": 38,
+            "function edge size": 44,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.virtual_parse_stack.get_from_real:void()",
+            "container call count": 0,
+            "function node size": 131,
+            "function edge size": 227,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.virtual_parse_stack.pop:void()",
+            "container call count": 0,
+            "function node size": 144,
+            "function edge size": 269,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.virtual_parse_stack.push:void(int)",
+            "container call count": 0,
+            "function node size": 40,
+            "function edge size": 43,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "java_cup.runtime.virtual_parse_stack.top:int()",
+            "container call count": 1,
+            "function node size": 123,
+            "function edge size": 216,
+            "container pre flow size": 1,
+            "container post flow size": 1
+        }
+    ]
+}

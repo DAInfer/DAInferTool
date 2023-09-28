@@ -1,0 +1,94 @@
+{
+    "inferredUnknownSpecs": [
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "Object getObject(String parameterName, Map map)",
+            "Object getObject(int parameterIndex)",
+            0.0,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "java.util.Properties",
+            "java.util.Properties",
+            "boolean replace(K key, V oldValue, V newValue)",
+            "V computeIfAbsent(K key, Function mappingFunction)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentHashMap",
+            "java.util.concurrent.ConcurrentHashMap",
+            "V replace(K key, V value)",
+            "V computeIfAbsent(K key, Function mappingFunction)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void and(BitSet set)",
+            "BitSet valueOf(long[] longs)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "Object getObject(String parameterName, Map map)",
+            "Object getObject(String parameterName)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentHashMap",
+            "java.util.concurrent.ConcurrentHashMap",
+            "V merge(K key, V value, BiFunction remappingFunction)",
+            "K reduceKeys(long parallelismThreshold, BiFunction reducer)",
+            0.0,
+            1,
+            "[(3, 2)]-->(1, 0)"
+        ],
+        [
+            "android.content.ComponentName",
+            "android.content.ComponentName",
+            "ComponentName unflattenFromString(String str)",
+            "String flattenToString()",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void xor(BitSet set)",
+            "BitSet valueOf(long[] longs)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void or(BitSet set)",
+            "BitSet valueOf(long[] longs)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "void setObject(String parameterName, Object x, SQLType targetSqlType, int scaleOrLength)",
+            "Object getObject(String parameterName, Map map)",
+            1.0,
+            1,
+            "[(1, 1)]-->(3, 0)"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+<summary fileFormatVersion="101">
+	<methods>
+		<method id="java.io.InputStream byteStream()">
+			<flows>
+				<flow isAlias="false" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[com.squareup.okhttp.ResponseBody: byte[] bytes]" AccessPathTypes="[byte[]]" />
+					<to sourceSinkType="Return" AccessPath="[java.io.InputStream: byte[] innerArray]" AccessPathTypes="[byte[]]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.io.Reader charStream()">
+			<flows>
+				<flow isAlias="false" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[com.squareup.okhttp.ResponseBody: byte[] bytes]" AccessPathTypes="[byte[]]" />
+					<to sourceSinkType="Return" AccessPath="[java.io.Reader: byte[] innerArray]" AccessPathTypes="[byte[]]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="long contentLength()">
+			<flows>
+				<flow isAlias="false" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[com.squareup.okhttp.ResponseBody: long contentLength]" AccessPathTypes="[long]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		</methods>
+</summary>

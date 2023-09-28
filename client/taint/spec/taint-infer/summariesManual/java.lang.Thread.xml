@@ -1,0 +1,184 @@
+<summary fileFormatVersion="101">
+	<methods>
+		<method id="void &lt;init&gt;(java.lang.Runnable)">
+			<flows>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Runnable runnable]" AccessPathTypes="[java.lang.Runnable]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void &lt;init&gt;(java.lang.Runnable,java.lang.String)">
+			<flows>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Runnable runnable]" AccessPathTypes="[java.lang.Runnable]" />
+				</flow>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="1" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.String name]" AccessPathTypes="[java.lang.String]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void &lt;init&gt;(java.lang.String)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.String name]" AccessPathTypes="[java.lang.String]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void &lt;init&gt;(java.lang.ThreadGroup,java.lang.Runnable)">
+			<flows>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.ThreadGroup threadGroup]" AccessPathTypes="[java.lang.ThreadGroup]" />
+				</flow>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="1" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Runnable runnable]" AccessPathTypes="[java.lang.Runnable]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void &lt;init&gt;(java.lang.ThreadGroup,java.lang.Runnable,java.lang.String)">
+			<flows>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.ThreadGroup threadGroup]" AccessPathTypes="[java.lang.ThreadGroup]" />
+				</flow>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="1" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Runnable runnable]" AccessPathTypes="[java.lang.Runnable]" />
+				</flow>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="2" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.String name]" AccessPathTypes="[java.lang.String]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void &lt;init&gt;(java.lang.ThreadGroup,java.lang.Runnable,java.lang.String,long)">
+			<flows>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.ThreadGroup threadGroup]" AccessPathTypes="[java.lang.ThreadGroup]" />
+				</flow>
+				<flow isAlias="true">
+					<from sourceSinkType="Parameter" ParameterIndex="1" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Runnable runnable]" AccessPathTypes="[java.lang.Runnable]" />
+				</flow>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="2" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.String name]" AccessPathTypes="[java.lang.String]" />
+				</flow>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="2" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: int stackSize]" AccessPathTypes="[int]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.lang.String getName()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.String name]" AccessPathTypes="[java.lang.String]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="int getPriority()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: int priority]" AccessPathTypes="[int]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.lang.ThreadGroup getThreadGroup()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.ThreadGroup threadGroup]" AccessPathTypes="[java.lang.ThreadGroup]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setName(java.lang.String)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.String name]" AccessPathTypes="[java.lang.String]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setDefaultUncaughtExceptionHandler(java.lang.Thread.UncaughtExceptionHandler)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Thread.UncaughtExceptionHandler h]" AccessPathTypes="[java.lang.Thread.UncaughtExceptionHandler]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.lang.Thread.UncaughtExceptionHandler getDefaultUncaughtExceptionHandler()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Thread.UncaughtExceptionHandler h]" AccessPathTypes="[java.lang.Thread.UncaughtExceptionHandler]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setUncaughtExceptionHandler(java.lang.Thread.UncaughtExceptionHandler)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Thread.UncaughtExceptionHandler uh]" AccessPathTypes="[java.lang.Thread.UncaughtExceptionHandler]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.lang.Thread.UncaughtExceptionHandler getUncaughtExceptionHandler()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Thread.UncaughtExceptionHandler uh]" AccessPathTypes="[java.lang.Thread.UncaughtExceptionHandler]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setContextClassLoader(java.lang.ClassLoader)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.ClassLoader loader]" AccessPathTypes="[java.lang.ClassLoader]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.lang.ClassLoader getContextClassLoader()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.ClassLoader loader]" AccessPathTypes="[java.lang.ClassLoader]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setPriority(int)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: int priority]" AccessPathTypes="[int]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void set(java.lang.Object)">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Object o]" AccessPathTypes="[java.lang.Object]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.lang.Object initialValue()">
+			<flows>
+				<flow isAlias="false">
+					<from sourceSinkType="Field" BaseType="java.lang.Thread" AccessPath="[java.lang.Thread: java.lang.Object o]" AccessPathTypes="[java.lang.Object]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+	</methods>
+</summary>

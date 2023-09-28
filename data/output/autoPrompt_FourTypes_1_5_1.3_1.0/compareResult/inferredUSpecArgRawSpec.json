@@ -1,0 +1,643 @@
+{
+    "inferredUSpecArgRawSpec": [
+        [
+            "org.codehaus.jackson.node.ObjectNode",
+            "org.codehaus.jackson.node.ObjectNode",
+            "JsonNode put(String fieldName, JsonNode value)",
+            "JsonNode get(int index)",
+            1,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "android.util.SparseArray",
+            "android.util.SparseArray",
+            "void put(int key, E value)",
+            "E get(int key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.codehaus.jackson.node.ObjectNode",
+            "org.codehaus.jackson.node.ObjectNode",
+            "JsonNode put(String fieldName, JsonNode value)",
+            "JsonNode get(String fieldName)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.json.JSONObject",
+            "org.json.JSONObject",
+            "JSONObject put(String name, Object value)",
+            "Object get(String name)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.HashMap",
+            "java.util.HashMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Map",
+            "java.util.Map",
+            "V putIfAbsent(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.lang.reflect.Field",
+            "java.lang.reflect.Field",
+            "void set(Object obj, Object value)",
+            "Object get(Object obj)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "javafx.collections.ObservableMap",
+            "javafx.collections.ObservableMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.LinkedHashMap",
+            "java.util.LinkedHashMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.apache.hadoop.conf.Configuration",
+            "org.apache.hadoop.conf.Configuration",
+            "void set(String name, String value)",
+            "String get(String name)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "com.google.gson.JsonObject",
+            "com.google.gson.JsonObject",
+            "void add(java.lang.String property, JsonElement value)",
+            "JsonElement get(java.lang.String memberName)",
+            1,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "java.util.Properties",
+            "java.util.Properties",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "android.util.SparseArray",
+            "android.util.SparseArray",
+            "void append(int key, E value)",
+            "E get(int key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.atomic.AtomicReferenceArray",
+            "java.util.concurrent.atomic.AtomicReferenceArray",
+            "boolean compareAndSet(int i, E expect, E update)",
+            "E get(int i)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.SortedMap",
+            "java.util.SortedMap",
+            "V putIfAbsent(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "gnu.trove.map.hash.TIntObjectHashMap",
+            "gnu.trove.map.hash.TIntObjectHashMap",
+            "V put(int key, V value)",
+            "V get(int key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.TreeMap",
+            "java.util.TreeMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.ofbiz.entity.GenericValue",
+            "org.ofbiz.entity.GenericValue",
+            "java.lang.Object put(java.lang.String key, java.lang.Object value)",
+            "java.lang.Object get(java.lang.Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.w3c.dom.Element",
+            "org.w3c.dom.Element",
+            "void setAttribute(String name, String value)",
+            "String getAttribute(String name)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.mvel2.templates.TemplateRegistry",
+            "org.mvel2.templates.TemplateRegistry",
+            "void addNamedTemplate(String name, CompiledTemplate template)",
+            "CompiledTemplate getNamedTemplate(String name)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "com.google.common.collect.BiMap",
+            "com.google.common.collect.BiMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentHashMap",
+            "java.util.concurrent.ConcurrentHashMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.eclipse.jface.resource.ImageRegistry",
+            "org.eclipse.jface.resource.ImageRegistry",
+            "void put(String key, Image image)",
+            "Image get(String key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.ofbiz.entity.GenericValue",
+            "org.ofbiz.entity.GenericValue",
+            "java.lang.Object put(java.lang.String key, java.lang.Object value)",
+            "java.lang.Object get(java.lang.String name, java.util.Locale locale)",
+            1,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.atomic.AtomicReferenceArray",
+            "java.util.concurrent.atomic.AtomicReferenceArray",
+            "void set(int i, E newValue)",
+            "E get(int i)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "javax.swing.JTextPane",
+            "javax.swing.JTextPane",
+            "Style addStyle(String nm, Style parent)",
+            "Style getStyle(String nm)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Vector",
+            "java.util.Vector",
+            "void add(int index, E element)",
+            "E elementAt(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Vector",
+            "java.util.Vector",
+            "void insertElementAt(E obj, int index)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(2, 1)]-->(1, 0)"
+        ],
+        [
+            "com.fasterxml.jackson.databind.node.ObjectNode",
+            "com.fasterxml.jackson.databind.node.ObjectNode",
+            "ObjectNode _put(String fieldName, JsonNode value)",
+            "JsonNode get(int index)",
+            1,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "java.util.Map",
+            "java.util.Map",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.eclipse.swt.widgets.TableItem",
+            "org.eclipse.swt.widgets.TableItem",
+            "void setText(int index, String string)",
+            "String getText()",
+            0.0,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "org.apache.shiro.session.Session",
+            "org.apache.shiro.session.Session",
+            "void setAttribute(Object key, Object value)",
+            "Object getAttribute(Object key)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "net.sf.json.JSONObject",
+            "net.sf.json.JSONObject",
+            "Object put(Object key, Object value)",
+            "Object get(String key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.List",
+            "java.util.List",
+            "void add(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "net.sf.json.JSONObject",
+            "net.sf.json.JSONObject",
+            "Object put(Object key, Object value)",
+            "Object get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Vector",
+            "java.util.Vector",
+            "E set(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.LinkedList",
+            "java.util.LinkedList",
+            "void add(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentMap",
+            "java.util.concurrent.ConcurrentMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentMap",
+            "java.util.concurrent.ConcurrentMap",
+            "V put(K key, V value)",
+            "V remove(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.LinkedList",
+            "java.util.LinkedList",
+            "E set(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "javolution.util.FastMap",
+            "javolution.util.FastMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.HashMap",
+            "java.util.HashMap",
+            "V putIfAbsent(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Hashtable",
+            "java.util.Hashtable",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.EnumMap",
+            "java.util.EnumMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.List",
+            "java.util.List",
+            "E set(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "net.minecraft.nbt.NBTTagCompound",
+            "net.minecraft.nbt.NBTTagCompound",
+            "void setString(java.lang.String key, java.lang.String value)",
+            "java.lang.String getString(java.lang.String key)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Vector",
+            "java.util.Vector",
+            "void add(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.IdentityHashMap",
+            "java.util.IdentityHashMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "gnu.trove.TIntObjectHashMap",
+            "gnu.trove.TIntObjectHashMap",
+            "V put(int key, V value)",
+            "V get(int key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.NavigableMap",
+            "java.util.NavigableMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "com.fasterxml.jackson.databind.node.ObjectNode",
+            "com.fasterxml.jackson.databind.node.ObjectNode",
+            "ObjectNode _put(String fieldName, JsonNode value)",
+            "JsonNode get(String fieldName)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "android.util.SparseArray",
+            "android.util.SparseArray",
+            "void put(int key, E value)",
+            "E valueAt(int index)",
+            1.0,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "java.util.Properties",
+            "java.util.Properties",
+            "Object setProperty(String key, String value)",
+            "String getProperty(String key)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Map",
+            "java.util.Map",
+            "V put(K key, V value)",
+            "V remove(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "gnu.trove.map.TIntObjectMap",
+            "gnu.trove.map.TIntObjectMap",
+            "V put(int key, V value)",
+            "V get(int key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.SortedMap",
+            "java.util.SortedMap",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.ArrayList",
+            "java.util.ArrayList",
+            "E set(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentHashMap",
+            "java.util.concurrent.ConcurrentHashMap",
+            "V putIfAbsent(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.concurrent.ConcurrentMap",
+            "java.util.concurrent.ConcurrentMap",
+            "V putIfAbsent(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Vector",
+            "java.util.Vector",
+            "void setElementAt(E obj, int index)",
+            "E elementAt(int index)",
+            1.0,
+            1,
+            "[(2, 1)]-->(1, 0)"
+        ],
+        [
+            "org.json.simple.JSONObject",
+            "org.json.simple.JSONObject",
+            "V put(K key, V value)",
+            "V get(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "javax.servlet.http.HttpSession",
+            "javax.servlet.http.HttpSession",
+            "void setAttribute(String name, Object value)",
+            "Object getAttribute(String name)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.ofbiz.entity.GenericValue",
+            "org.ofbiz.entity.GenericValue",
+            "java.lang.Object put(java.lang.String key, java.lang.Object value)",
+            "java.lang.Object get(java.lang.String name)",
+            1,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "com.mongodb.DBObject",
+            "com.mongodb.DBObject",
+            "java.lang.Object put(java.lang.String key, java.lang.Object v)",
+            "java.lang.Object get(java.lang.String key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.Vector",
+            "java.util.Vector",
+            "void insertElementAt(E obj, int index)",
+            "E elementAt(int index)",
+            1.0,
+            1,
+            "[(2, 1)]-->(1, 0)"
+        ],
+        [
+            "java.util.ArrayList",
+            "java.util.ArrayList",
+            "void add(int index, E element)",
+            "E remove(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "org.eclipse.swt.widgets.TableItem",
+            "org.eclipse.swt.widgets.TableItem",
+            "void setText(int index, String string)",
+            "String getText(int index)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "android.os.Bundle",
+            "android.os.Bundle",
+            "void putString(String key, String value)",
+            "String getString(String key)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.List",
+            "java.util.List",
+            "void add(int index, E element)",
+            "E remove(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "javax.servlet.ServletContext",
+            "javax.servlet.ServletContext",
+            "void setAttribute(String name, Object object)",
+            "Object getAttribute(String name)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.ArrayList",
+            "java.util.ArrayList",
+            "void add(int index, E element)",
+            "E get(int index)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ]
+    ]
+}

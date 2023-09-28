@@ -1,0 +1,1767 @@
+{
+    "android.content.Intent.setSourceBounds:void(Rect)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getSourceBounds:Rect(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.putCharSequenceArrayListExtra:Intent(java.lang.String, ArrayList)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getCharSequenceArrayListExtra:ArrayList(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.offerFirst:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.getLast:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.setElementAt:void(java.lang.Object, int)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Vector.firstElement:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.addLast:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.peekFirst:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.wrapHardwareBuffer:Bitmap(HardwareBuffer, ColorSpace)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.getHardwareBuffer:HardwareBuffer(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.offer:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.removeFirst:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setAdminArea:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getAdminArea:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.ThreadLocal.set:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ThreadLocal.get:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.add:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.pollFirst:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.net.HttpCookie.setComment:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.net.HttpCookie.getComment:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.push:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.peekLast:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(Picture, int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 4,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.getConfig:Bitmap.Config(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Map.merge:java.lang.Object(java.lang.Object, java.lang.Object, BiFunction)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Map.computeIfAbsent:java.lang.Object(java.lang.Object, Function)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.reconfigure:void(int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 3,
+        "action_type": "List_Push_Random_"
+    },
+    "android.os.Message.setData:void(Bundle)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.os.Message.getData:Bundle(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.json.JSONArray.put:JSONArray(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "org.json.JSONArray.remove:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.addElement:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.element:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.removeLast:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setIndoorSurpportPolygon:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getIndoorSurpportPolygon:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.poll:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.addFirst:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Stack.push:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Stack.remove:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpDelete.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpDelete.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setComponent:Intent(ComponentName)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getComponent:ComponentName(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.setProtocolVersion:void(ProtocolVersion)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.getProtocolVersion:ProtocolVersion(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.obtain:Message(Handler, Runnable)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.os.Message.getTarget:Handler(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.lastElement:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.Throwable.addSuppressed:void(Throwable)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Throwable.getCause:Throwable(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.pop:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.add:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.setUrl:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getUrl:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.obtain:Message(Handler, int, int, int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.offerLast:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setSubLocality:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getSubLocality:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.add:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Stack.elementAt:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.ComponentName.createRelative:ComponentName(java.lang.String, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.ComponentName.getPackageName:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.setGainmap:void(Gainmap)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.getGainmap:Gainmap(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.create:ResponseBody(MediaType, long, okio.BufferedSource)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.contentType:MediaType(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.insertElementAt:void(java.lang.Object, int)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Stack.pop:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.List.add:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.List.remove:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(DisplayMetrics, int, int, Bitmap.Config, boolean, ColorSpace)": {
+        "index_of_key": -1,
+        "index_of_value": 6,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.getColorSpace:ColorSpace(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.getFirst:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setDataAndNormalize:Intent(Uri)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getData:Uri(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setSelector:void(Intent)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getSelector:Intent(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.Thread.setDefaultUncaughtExceptionHandler:void(Thread.UncaughtExceptionHandler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Thread.getDefaultUncaughtExceptionHandler:Thread.UncaughtExceptionHandler(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.insertElementAt:void(java.lang.Object, int)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Vector.remove:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setDataAndTypeAndNormalize:Intent(Uri, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getType:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setCountryCode:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getCountryCode:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.get:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.add:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Vector.get:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.List.set:java.lang.Object(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.List.get:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.setElementAt:void(java.lang.Object, int)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setBuildingName:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getBuildingName:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.setTarget:void(Handler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Deque.remove:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.putIntegerArrayListExtra:Intent(java.lang.String, ArrayList)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getIntegerArrayListExtra:ArrayList(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setExtraLocation:void(java.lang.String, android.location.Location)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getExtraLocation:android.location.Location(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setLocationID:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getLocationID:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Map.putIfAbsent:java.lang.Object(java.lang.Object, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Map.remove:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Queue.add:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Queue.remove:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.addElement:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.weakCompareAndSet:boolean(java.lang.Object, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.accumulateAndGet:java.lang.Object(java.lang.Object, BinaryOperator)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.setProtocolVersion:void(ProtocolVersion)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.getProtocolVersion:ProtocolVersion(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Map.get:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.pollLast:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setFeatureName:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getFeatureName:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setCoorType:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getCoorType:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.setConfig:void(Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.os.Message.obtain:Message(Handler, int)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Map.put:java.lang.Object(java.lang.Object, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "org.json.JSONArray.put:JSONArray(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.json.JSONArray.get:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(int, int, Bitmap.Config, boolean)": {
+        "index_of_key": -1,
+        "index_of_value": 3,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Vector.set:java.lang.Object(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Stack.peek:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.setEntity:void(HttpEntity)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.getEntity:HttpEntity(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.util.SparseArray.setValueAt:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.util.SparseArray.get:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.compareAndSet:boolean(java.lang.Object, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Queue.poll:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Vector.elementAt:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.XMLReader.setDTDHandler:void(DTDHandler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.XMLReader.getDTDHandler:DTDHandler(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.create:ResponseBody(MediaType, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.json.JSONArray.opt:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setFusionLocInfo:void(java.lang.String, double[])": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getFusionLocInfo:double[](java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setLocationDescribe:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getLocationDescribe:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpDelete.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpDelete.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Deque.peek:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.InputSource.setPublicId:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.InputSource.getPublicId:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.List.add:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.setColorSpace:void(ColorSpace)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.IntentFilter.addCategory:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.IntentFilter.getCategory:java.lang.String(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.add:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.setTypeAndNormalize:Intent(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(int, int, Bitmap.Config, boolean, ColorSpace)": {
+        "index_of_key": -1,
+        "index_of_value": 3,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ProcessBuilder.command:ProcessBuilder(List)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ProcessBuilder.command:List(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setThoroughfare:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getThoroughfare:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.lastElement:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setFloor:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getFloor:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.firstElement:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Location.setProvider:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Location.getProvider:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 3,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.obtain:Message(Handler, int, int, int)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.setRetFields:void(java.lang.String, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getRetFields:java.lang.String(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Queue.offer:boolean(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.Queue.peek:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setAction:Intent(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getAction:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.get:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.setProtocolVersion:void(ProtocolVersion)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.getProtocolVersion:ProtocolVersion(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setBuildingID:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getBuildingID:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.net.HttpCookie.setPath:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.net.HttpCookie.getPath:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setPoiList:void(java.util.List<Poi>)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getPoiList:java.util.List<Poi>(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.net.HttpCookie.setPortlist:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.net.HttpCookie.getPortlist:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.source:okio.BufferedSource(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.peekData:Bundle(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.obtain:Message(Handler, int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.getAndSet:java.lang.Object(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.get:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Stack.set:java.lang.Object(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Thread.setName:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Thread.getName:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.getAndSet:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpDelete.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpDelete.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.setProtocolVersion:void(ProtocolVersion)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.getProtocolVersion:ProtocolVersion(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.ComponentName.getClassName:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.IntentFilter.addDataType:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.IntentFilter.getDataType:java.lang.String(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.util.SparseArray.valueAt:java.lang.Object(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setType:Intent(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.setProtocolVersion:void(ProtocolVersion)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.getProtocolVersion:ProtocolVersion(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.InputSource.setEncoding:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.InputSource.getEncoding:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.Throwable.setStackTrace:void(StackTraceElement[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Throwable.getStackTrace:StackTraceElement[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setLocality:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getLocality:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.util.SparseArray.put:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.net.HttpCookie.setCommentURL:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.net.HttpCookie.getCommentURL:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.ProcessBuilder.redirectInput:ProcessBuilder(ProcessBuilder.Redirect)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ProcessBuilder.redirectInput:ProcessBuilder.Redirect(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setExtras:void(Bundle)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getExtras:Bundle(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(DisplayMetrics, int[], int, int, int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 7,
+        "action_type": "List_Push_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.create:ResponseBody(MediaType, byte[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(int[], int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 4,
+        "action_type": "List_Push_Random_"
+    },
+    "android.util.SparseArray.append:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.setDataAndType:Intent(Uri, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.graphics.Bitmap.copy:Bitmap(Bitmap.Config, boolean)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.compareAndSet:boolean(int, java.lang.Object, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 3,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.getAndAccumulate:java.lang.Object(int, java.lang.Object, BinaryOperator)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.IntentFilter.create:IntentFilter(java.lang.String, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.IntentFilter.getAction:java.lang.String(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.Queue.element:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.XMLReader.setContentHandler:void(ContentHandler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.XMLReader.getContentHandler:ContentHandler(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setAddressLine:void(int, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getAddressLine:java.lang.String(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.replaceExtras:Intent(Bundle)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getExtras:Bundle(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.IntentFilter.addAction:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.os.Message.obtain:Message(Handler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.setNetworkLocationType:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getNetworkLocationType:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.string:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.Thread.setContextClassLoader:void(ClassLoader)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Thread.getContextClassLoader:ClassLoader(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.IntentFilter.addDataScheme:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.IntentFilter.getDataScheme:java.lang.String(int)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setPackage:Intent(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getPackage:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.set:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.ComponentName.createRelative:ComponentName(Context, java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.setPostalCode:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getPostalCode:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.util.SparseArray.set:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.InputSource.setCharacterStream:void(Reader)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.InputSource.getCharacterStream:Reader(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpHead.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.setConfig:void(RequestConfig)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpGet.getConfig:RequestConfig(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setSubAdminArea:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getSubAdminArea:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.lazySet:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ProcessBuilder.directory:ProcessBuilder(File)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ProcessBuilder.directory:File(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.XMLReader.setErrorHandler:void(ErrorHandler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.XMLReader.getErrorHandler:ErrorHandler(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(int[], int, int, int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 6,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.setLocTypeDescription:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getLocTypeDescription:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(DisplayMetrics, int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 4,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.getAndAccumulate:java.lang.Object(java.lang.Object, BinaryOperator)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.baidu.location.BDLocation.setAddrStr:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getAddrStr:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReference.lazySet:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.setTime:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "com.baidu.location.BDLocation.getTime:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.net.HttpCookie.setValue:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.net.HttpCookie.getValue:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpTrace.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.weakCompareAndSet:boolean(int, java.lang.Object, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 3,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.accumulateAndGet:java.lang.Object(int, java.lang.Object, BinaryOperator)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.concurrent.atomic.AtomicReferenceArray.set:void(int, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.setData:Intent(Uri)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpEntityEnclosingRequestBase.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(DisplayMetrics, int, int, Bitmap.Config, boolean)": {
+        "index_of_key": -1,
+        "index_of_value": 4,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Throwable.initCause:Throwable(Throwable)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.putStringArrayListExtra:Intent(java.lang.String, ArrayList)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getStringArrayListExtra:ArrayList(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.putExtras:Intent(Bundle)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.setClipData:void(ClipData)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getClipData:ClipData(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.setHeaders:void(Header[])": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.getAllHeaders:Header[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.Thread.setUncaughtExceptionHandler:void(Thread.UncaughtExceptionHandler)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.Thread.getUncaughtExceptionHandler:Thread.UncaughtExceptionHandler(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.os.Message.getCallback:Runnable(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setPhone:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getPhone:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setSubThoroughfare:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getSubThoroughfare:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.InputSource.setSystemId:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.InputSource.getSystemId:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setCountryName:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getCountryName:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.setProtocolVersion:void(ProtocolVersion)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.getProtocolVersion:ProtocolVersion(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Location.setExtras:void(Bundle)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Location.getExtras:Bundle(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.lang.ProcessBuilder.redirectOutput:ProcessBuilder(ProcessBuilder.Redirect)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.lang.ProcessBuilder.redirectOutput:ProcessBuilder.Redirect(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpRequestBase.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.InputSource.setByteStream:void(InputStream)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.InputSource.getByteStream:InputStream(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.XMLReader.setEntityResolver:void(EntityResolver)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.XMLReader.getEntityResolver:EntityResolver(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.graphics.Bitmap.createBitmap:Bitmap(DisplayMetrics, int[], int, int, Bitmap.Config)": {
+        "index_of_key": -1,
+        "index_of_value": 5,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.ListIterator.add:void(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.util.ListIterator.previous:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.util.ListIterator.next:java.lang.Object(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.setURI:void(URI)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "org.apache.http.client.methods.HttpOptions.getURI:URI(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.location.Address.setPremises:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.location.Address.getPremises:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "com.squareup.okhttp.ResponseBody.bytes:byte[](java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "org.sax.XMLReader.setProperty:void(java.lang.String, java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "org.sax.XMLReader.getProperty:java.lang.Object(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.setIdentifier:Intent(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getIdentifier:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "java.net.HttpCookie.setDomain:void(java.lang.String)": {
+        "index_of_key": -1,
+        "index_of_value": 1,
+        "action_type": "List_Push_Random_"
+    },
+    "java.net.HttpCookie.getDomain:java.lang.String(java.lang.Object)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    },
+    "android.content.Intent.putParcelableArrayListExtra:Intent(java.lang.String, ArrayList)": {
+        "index_of_key": -1,
+        "index_of_value": 2,
+        "action_type": "List_Push_Random_"
+    },
+    "android.content.Intent.getParcelableArrayListExtra:ArrayList(java.lang.String, Class)": {
+        "index_of_key": -1,
+        "index_of_value": -1,
+        "action_type": "List_Access_Random_"
+    }
+}

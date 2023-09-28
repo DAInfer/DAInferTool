@@ -1,0 +1,89 @@
+<summary fileFormatVersion="101">
+	<hierarchy superClass="org.apache.http.client.methods.HttpRequestBase">
+		<interface name="org.apache.http.HttpEntityEnclosingRequest" />
+		<interface name="org.apache.http.HttpMessage" />
+		<interface name="org.apache.http.HttpRequest" />
+	</hierarchy>
+	<methods>
+		<method id="org.apache.http.HttpEntity getEntity()">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpEntityEnclosingRequestBase: org.apache.http.HttpEntity entity]" AccessPathTypes="[org.apache.http.HttpEntity]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setEntity(org.apache.http.HttpEntity)">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpEntityEnclosingRequestBase: org.apache.http.HttpEntity entity]" AccessPathTypes="[org.apache.http.HttpEntity]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setHeaders(org.apache.http.Header[])">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: org.apache.http.Header[] headers]" AccessPathTypes="[org.apache.http.Header[]]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="org.apache.http.Header[] getAllHeaders()">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: org.apache.http.Header[] headers]" AccessPathTypes="[org.apache.http.Header[]]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setURI(java.net.URI)">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: java.lang.String uri]" AccessPathTypes="[java.lang.String]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.net.URI getURI()">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: java.lang.String uri]" AccessPathTypes="[java.lang.String]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setProtocolVersion(org.apache.http.ProtocolVersion)">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: org.apache.http.ProtocolVersion version]" AccessPathTypes="[org.apache.http.ProtocolVersion]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="org.apache.http.ProtocolVersion getProtocolVersion()">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: org.apache.http.ProtocolVersion version]" AccessPathTypes="[org.apache.http.ProtocolVersion]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void setConfig(org.apache.http.client.config.RequestConfig)">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Parameter" ParameterIndex="0" />
+					<to sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: org.apache.http.client.config.RequestConfig config]" AccessPathTypes="[org.apache.http.client.config.RequestConfig]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="org.apache.http.client.config.RequestConfig getConfig()">
+			<flows>
+				<flow isAlias="true" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[org.apache.http.client.methods.HttpRequestBase: org.apache.http.client.config.RequestConfig config]" AccessPathTypes="[org.apache.http.client.config.RequestConfig]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+	</methods>
+</summary>

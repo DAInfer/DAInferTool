@@ -1,0 +1,2244 @@
+{
+    "data": [
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.io.FileNotFoundException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.io.IOException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.io.UnsupportedEncodingException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.Class>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.Exception>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.IllegalAccessException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.InstantiationException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.NoSuchMethodException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.RuntimeException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.StringIndexOutOfBoundsException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.Throwable>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.reflect.InvocationTargetException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.reflect.ParameterizedType>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.lang.reflect.TypeVariable>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.net.MalformedURLException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<java.net.URISyntaxException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<org.apache.uima.analysis_engine.AnalysisEngineProcessException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<org.apache.uima.collection.CollectionException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<org.apache.uima.resource.ResourceInitializationException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<org.cleartk.util.ReflectionUtil$TypeArgumentDelegator>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "com.xxx.frontend.intrinsic.instanceof<org.cleartk.util.collection.UnknownKeyException>",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil$1.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil$1.compare:int(java.lang.Object, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 37,
+            "function edge size": 39,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil$1.compare:int(org.apache.uima.jcas.tcas.Annotation, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 91,
+            "function edge size": 167,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.contains:boolean(org.apache.uima.jcas.tcas.Annotation, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 92,
+            "function edge size": 178,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.getAnnotationsExtent:int[](java.util.List)",
+            "container call count": 0,
+            "function node size": 132,
+            "function edge size": 242,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.getSurroundingText:java.lang.String(org.apache.uima.jcas.JCas, org.apache.uima.jcas.tcas.Annotation, java.lang.Class, int, boolean)",
+            "container call count": 0,
+            "function node size": 120,
+            "function edge size": 189,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.overlaps:boolean(org.apache.uima.jcas.tcas.Annotation, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 72,
+            "function edge size": 128,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.selectFirstMatching:org.apache.uima.jcas.tcas.Annotation(org.apache.uima.jcas.JCas, java.lang.Class, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 52,
+            "function edge size": 64,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.selectMatching:java.util.List(org.apache.uima.jcas.JCas, java.lang.Class, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 98,
+            "function edge size": 159,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.size:int(org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 31,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.AnnotationUtil.sort:void(java.util.List)",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 33,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.BaseConversion.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.BaseConversion.convertBase:java.lang.String(int, int)",
+            "container call count": 0,
+            "function node size": 190,
+            "function edge size": 374,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 44,
+            "function edge size": 38,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.<init>:void(java.lang.String, java.lang.String, java.lang.Object[])",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.<init>:void(java.lang.Throwable, java.lang.String, java.lang.String, java.lang.Object[])",
+            "container call count": 0,
+            "function node size": 32,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.fileNotFound:org.cleartk.util.CleartkInitializationException(java.io.File)",
+            "container call count": 0,
+            "function node size": 80,
+            "function edge size": 99,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.incompatibleTypeParameterAndType:org.cleartk.util.CleartkInitializationException(java.lang.Object, java.lang.String, java.lang.reflect.Type, java.lang.Class)",
+            "container call count": 0,
+            "function node size": 105,
+            "function edge size": 146,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.incompatibleTypeParameters:org.cleartk.util.CleartkInitializationException(java.lang.Object, java.lang.String, java.lang.reflect.Type, java.lang.Object, java.lang.String, java.lang.reflect.Type)",
+            "container call count": 0,
+            "function node size": 179,
+            "function edge size": 273,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.invalidParameterValueSelectFrom:org.cleartk.util.CleartkInitializationException(java.lang.String, java.util.List, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 94,
+            "function edge size": 129,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.neitherParameterSet:org.cleartk.util.CleartkInitializationException(java.lang.String, java.lang.Object, java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 101,
+            "function edge size": 142,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.notExactlyOneParameterSet:org.cleartk.util.CleartkInitializationException(java.lang.String, java.lang.Object, java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 98,
+            "function edge size": 138,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.notSingleCharacter:org.cleartk.util.CleartkInitializationException(java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 86,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.CleartkInitializationException.parameterLessThan:org.cleartk.util.CleartkInitializationException(java.lang.String, java.lang.Object, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 92,
+            "function edge size": 125,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler$1.<init>:void(java.lang.StringBuffer, java.io.InputStream)",
+            "container call count": 0,
+            "function node size": 35,
+            "function edge size": 37,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler$1.addToBuffer:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 35,
+            "function edge size": 33,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler$2.<init>:void(java.util.List, java.io.InputStream)",
+            "container call count": 0,
+            "function node size": 35,
+            "function edge size": 37,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler$2.addToBuffer:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 37,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler.<init>:void(java.lang.Object, java.io.BufferedReader)",
+            "container call count": 0,
+            "function node size": 39,
+            "function edge size": 49,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler.<init>:void(java.lang.Object, java.io.InputStream)",
+            "container call count": 0,
+            "function node size": 49,
+            "function edge size": 61,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler.getBuffer:java.lang.Object()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler.getInputStreamAsBufferedString:org.cleartk.util.InputStreamHandler(java.io.InputStream)",
+            "container call count": 0,
+            "function node size": 43,
+            "function edge size": 47,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler.getInputStreamAsList:org.cleartk.util.InputStreamHandler(java.io.InputStream)",
+            "container call count": 0,
+            "function node size": 45,
+            "function edge size": 51,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.InputStreamHandler.run:void()",
+            "container call count": 0,
+            "function node size": 147,
+            "function edge size": 267,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.IoUtil.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.IoUtil.getInputStream:java.io.InputStream(java.lang.Class, java.lang.String)",
+            "container call count": 0,
+            "function node size": 329,
+            "function edge size": 724,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ParamUtil.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ParamUtil.getParameterValue:java.lang.String(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 44,
+            "function edge size": 57,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 60,
+            "function edge size": 65,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.<init>:void()",
+            "container call count": 0,
+            "function node size": 322,
+            "function edge size": 529,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.getArch:java.lang.String()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.getExecutableSuffix:java.lang.String()",
+            "container call count": 0,
+            "function node size": 58,
+            "function edge size": 78,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.getOs:java.lang.String()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.setArch:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.setOs:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.PlatformDetection.toString:java.lang.String()",
+            "container call count": 0,
+            "function node size": 51,
+            "function edge size": 56,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.checkTypeParameterIsAssignable:void(java.lang.Class, java.lang.String, java.lang.Object, java.lang.Class, java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 184,
+            "function edge size": 379,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.checkTypeParametersAreEqual:void(java.lang.Class, java.lang.String, java.lang.Object, java.lang.Class, java.lang.String, java.lang.Object, java.lang.Class)",
+            "container call count": 0,
+            "function node size": 654,
+            "function edge size": 1307,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.getTypeArgument:java.lang.reflect.Type(java.lang.Class, java.lang.String, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 56,
+            "function edge size": 74,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.getTypeArguments:java.util.Map(java.lang.Class, java.lang.Class, java.util.Map)",
+            "container call count": 0,
+            "function node size": 169,
+            "function edge size": 350,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.getTypeArguments:java.util.Map(java.lang.Class, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 59,
+            "function edge size": 80,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.getTypeArguments:java.util.Map(java.lang.Class, java.lang.reflect.ParameterizedType, java.util.Map)",
+            "container call count": 0,
+            "function node size": 553,
+            "function edge size": 1174,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.getTypeArguments:java.util.Map(java.lang.Class, java.lang.reflect.Type, java.util.Map)",
+            "container call count": 0,
+            "function node size": 91,
+            "function edge size": 149,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.isAssignableFrom:boolean(java.lang.reflect.Type, java.lang.reflect.Type)",
+            "container call count": 0,
+            "function node size": 78,
+            "function edge size": 132,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.typevarString:java.lang.String(java.lang.reflect.TypeVariable)",
+            "container call count": 0,
+            "function node size": 44,
+            "function edge size": 38,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ReflectionUtil.uncheckedCast:java.lang.Object(java.lang.Object)",
+            "container call count": 0,
+            "function node size": 27,
+            "function edge size": 25,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ViewUriUtil.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ViewUriUtil.getURI:java.net.URI(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 121,
+            "function edge size": 215,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ViewUriUtil.setURI:void(org.apache.uima.cas.CAS, java.net.URI)",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 28,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ViewUriUtil.setURI:void(org.apache.uima.jcas.JCas, java.net.URI)",
+            "container call count": 0,
+            "function node size": 30,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.PlainTextWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.PlainTextWriter.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 112,
+            "function edge size": 211,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.PlainTextWriter.process:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 188,
+            "function edge size": 361,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.PlainTextWriter.setOutputDirectoryName:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToDocumentTextAnnotator.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToDocumentTextAnnotator.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription()",
+            "container call count": 0,
+            "function node size": 57,
+            "function edge size": 72,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToDocumentTextAnnotator.getDescriptionForView:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.lang.String)",
+            "container call count": 0,
+            "function node size": 197,
+            "function edge size": 358,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToDocumentTextAnnotator.process:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 186,
+            "function edge size": 340,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator$1.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 133,
+            "function edge size": 231,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator$XmlScheme.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 80,
+            "function edge size": 109,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator$XmlScheme.<init>:void(java.lang.String, int)",
+            "container call count": 0,
+            "function node size": 30,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator$XmlScheme.valueOf:org.cleartk.util.ae.UriToXmiCasAnnotator$XmlScheme(java.lang.String)",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 34,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator$XmlScheme.values:org.cleartk.util.ae.UriToXmiCasAnnotator$XmlScheme[]()",
+            "container call count": 0,
+            "function node size": 46,
+            "function edge size": 59,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator.getCreateViewAggregateDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.lang.String)",
+            "container call count": 0,
+            "function node size": 197,
+            "function edge size": 358,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription()",
+            "container call count": 0,
+            "function node size": 57,
+            "function edge size": 72,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.UriToXmiCasAnnotator.process:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 280,
+            "function edge size": 532,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.XmiWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.XmiWriter.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.io.File)",
+            "container call count": 0,
+            "function node size": 78,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.XmiWriter.getXmiFile:java.io.File(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 173,
+            "function edge size": 328,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.XmiWriter.process:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 67,
+            "function edge size": 95,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.LineWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 39,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.LineWriter.collectionProcessComplete:void()",
+            "container call count": 0,
+            "function node size": 95,
+            "function edge size": 178,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.LineWriter.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 1300,
+            "function edge size": 2646,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.LineWriter.initializeTypes:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 128,
+            "function edge size": 229,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.LineWriter.process:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 1612,
+            "function edge size": 3630,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.annotation.CoveredTextAnnotationWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.annotation.CoveredTextAnnotationWriter.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 27,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.annotation.CoveredTextAnnotationWriter.writeAnnotation:java.lang.String(org.apache.uima.jcas.JCas, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 30,
+            "function edge size": 25,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.BlankLineBlockWriter.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.BlankLineBlockWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.BlankLineBlockWriter.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 27,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.BlankLineBlockWriter.writeBlock:java.lang.String(org.apache.uima.jcas.JCas, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 31,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DoNothingBlockWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DoNothingBlockWriter.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 27,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DoNothingBlockWriter.writeBlock:java.lang.String(org.apache.uima.jcas.JCas, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 30,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DocumentIdBlockWriter.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DocumentIdBlockWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DocumentIdBlockWriter.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 27,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.linewriter.block.DocumentIdBlockWriter.writeBlock:java.lang.String(org.apache.uima.jcas.JCas, org.apache.uima.jcas.tcas.Annotation)",
+            "container call count": 0,
+            "function node size": 150,
+            "function edge size": 269,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.createParentheticals:void(org.apache.uima.jcas.JCas, java.lang.String, int)",
+            "container call count": 0,
+            "function node size": 668,
+            "function edge size": 1483,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.lang.Class)",
+            "container call count": 0,
+            "function node size": 55,
+            "function edge size": 65,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.lang.Class, java.lang.Class)",
+            "container call count": 0,
+            "function node size": 55,
+            "function edge size": 65,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.lang.Class, java.lang.Class, char, char)",
+            "container call count": 0,
+            "function node size": 340,
+            "function edge size": 674,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 371,
+            "function edge size": 741,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.ae.parenthetical.ParentheticalAnnotator.process:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 291,
+            "function edge size": 604,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.<init>:void()",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 39,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.delegate:java.lang.Object()",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 31,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.delegate:java.util.Map()",
+            "container call count": 0,
+            "function node size": 35,
+            "function edge size": 40,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.forcePut:java.lang.Object(java.lang.Object, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 40,
+            "function edge size": 43,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.forcePut:java.lang.String(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 42,
+            "function edge size": 48,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.getOrGenerateKey:java.lang.Object(java.lang.Object)",
+            "container call count": 0,
+            "function node size": 39,
+            "function edge size": 43,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.getOrGenerateKey:java.lang.String(java.lang.String)",
+            "container call count": 0,
+            "function node size": 120,
+            "function edge size": 193,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.inverse:com.google.common.collect.BiMap()",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.put:java.lang.Object(java.lang.Object, java.lang.Object)",
+            "container call count": 0,
+            "function node size": 39,
+            "function edge size": 43,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.put:java.lang.String(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 53,
+            "function edge size": 71,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.putAll:void(java.util.Map)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.read:void(java.io.Reader)",
+            "container call count": 0,
+            "function node size": 305,
+            "function edge size": 633,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.values:java.util.Collection()",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 31,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.values:java.util.Set()",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.write:void(java.io.Writer)",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.CompressedStringBiMap.write:void(java.io.Writer, boolean)",
+            "container call count": 0,
+            "function node size": 246,
+            "function edge size": 458,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper$Entry.<init>:void(int)",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 39,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper$Entry.increment:void()",
+            "container call count": 0,
+            "function node size": 37,
+            "function edge size": 46,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper.<init>:void(int)",
+            "container call count": 0,
+            "function node size": 48,
+            "function edge size": 65,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper.finalizeMap:void()",
+            "container call count": 0,
+            "function node size": 201,
+            "function edge size": 362,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper.getInteger:int(java.lang.String)",
+            "container call count": 0,
+            "function node size": 169,
+            "function edge size": 331,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper.getOrGenerateInteger:int(java.lang.String)",
+            "container call count": 0,
+            "function node size": 124,
+            "function edge size": 213,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper.write:void(java.io.File)",
+            "container call count": 0,
+            "function node size": 86,
+            "function edge size": 131,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.GenericStringMapper.write:void(java.io.Writer)",
+            "container call count": 0,
+            "function node size": 362,
+            "function edge size": 744,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.collection.UnknownKeyException.<init>:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.<init>:void()",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 45,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.close:void()",
+            "container call count": 0,
+            "function node size": 26,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.countFiles:int(java.util.Iterator)",
+            "container call count": 0,
+            "function node size": 75,
+            "function edge size": 127,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.createFileIterator:java.util.Iterator()",
+            "container call count": 0,
+            "function node size": 1209,
+            "function edge size": 2876,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getCollectionReader:org.apache.uima.collection.CollectionReader(java.lang.String)",
+            "container call count": 0,
+            "function node size": 77,
+            "function edge size": 113,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getCollectionReaderWithPatterns:org.apache.uima.collection.CollectionReader(java.lang.String, java.lang.String, java.lang.String[])",
+            "container call count": 0,
+            "function node size": 81,
+            "function edge size": 117,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getCollectionReaderWithSuffixes:org.apache.uima.collection.CollectionReader(java.lang.String, java.lang.String, java.lang.String[])",
+            "container call count": 0,
+            "function node size": 81,
+            "function edge size": 117,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getCollectionReaderWithView:org.apache.uima.collection.CollectionReader(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 79,
+            "function edge size": 115,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getDescription:org.apache.uima.collection.CollectionReaderDescription(java.lang.String)",
+            "container call count": 0,
+            "function node size": 79,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getDescriptionWithPatterns:org.apache.uima.collection.CollectionReaderDescription(java.lang.String, java.lang.String, java.lang.String[])",
+            "container call count": 0,
+            "function node size": 120,
+            "function edge size": 190,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getDescriptionWithSuffixes:org.apache.uima.collection.CollectionReaderDescription(java.lang.String, java.lang.String, java.lang.String[])",
+            "container call count": 0,
+            "function node size": 120,
+            "function edge size": 190,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getDescriptionWithView:org.apache.uima.collection.CollectionReaderDescription(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 98,
+            "function edge size": 151,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getNext:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 244,
+            "function edge size": 487,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.getProgress:org.apache.uima.util.Progress[]()",
+            "container call count": 0,
+            "function node size": 82,
+            "function edge size": 117,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.hasNext:boolean()",
+            "container call count": 0,
+            "function node size": 136,
+            "function edge size": 271,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.FilesCollectionReader.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 294,
+            "function edge size": 596,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.RegexFileFilter.<init>:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 58,
+            "function edge size": 80,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.RegexFileFilter.<init>:void(java.lang.String, int)",
+            "container call count": 0,
+            "function node size": 59,
+            "function edge size": 80,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.RegexFileFilter.<init>:void(java.lang.String, org.apache.commons.io.IOCase)",
+            "container call count": 0,
+            "function node size": 90,
+            "function edge size": 149,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.RegexFileFilter.<init>:void(java.util.regex.Pattern)",
+            "container call count": 0,
+            "function node size": 57,
+            "function edge size": 80,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.RegexFileFilter.accept:boolean(java.io.File, java.lang.String)",
+            "container call count": 0,
+            "function node size": 39,
+            "function edge size": 40,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$1.<init>:void(org.cleartk.util.cr.UriCollectionReader)",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 33,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$1.apply:java.lang.Object(java.lang.Object)",
+            "container call count": 0,
+            "function node size": 43,
+            "function edge size": 48,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$1.apply:java.net.URI(java.lang.String)",
+            "container call count": 0,
+            "function node size": 68,
+            "function edge size": 89,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$2.<init>:void(org.cleartk.util.cr.UriCollectionReader)",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 33,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$2.apply:java.lang.Object(java.lang.Object)",
+            "container call count": 0,
+            "function node size": 35,
+            "function edge size": 37,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$2.apply:java.net.URI(java.io.File)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 25,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$RejectSystemDirectories.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$RejectSystemDirectories.accept:boolean(java.io.File)",
+            "container call count": 0,
+            "function node size": 66,
+            "function edge size": 102,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$RejectSystemDirectories.accept:boolean(java.io.File, java.lang.String)",
+            "container call count": 0,
+            "function node size": 89,
+            "function edge size": 150,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$RejectSystemFiles.<init>:void()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 37,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$RejectSystemFiles.accept:boolean(java.io.File)",
+            "container call count": 0,
+            "function node size": 66,
+            "function edge size": 102,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader$RejectSystemFiles.accept:boolean(java.io.File, java.lang.String)",
+            "container call count": 0,
+            "function node size": 89,
+            "function edge size": 150,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.<init>:void()",
+            "container call count": 0,
+            "function node size": 70,
+            "function edge size": 108,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getCollectionReaderFromDirectory:org.apache.uima.collection.CollectionReader(java.io.File)",
+            "container call count": 0,
+            "function node size": 77,
+            "function edge size": 113,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getCollectionReaderFromDirectory:org.apache.uima.collection.CollectionReader(java.io.File, java.lang.Class, java.lang.Class)",
+            "container call count": 0,
+            "function node size": 81,
+            "function edge size": 117,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getCollectionReaderFromFiles:org.apache.uima.collection.CollectionReader(java.util.Collection)",
+            "container call count": 0,
+            "function node size": 77,
+            "function edge size": 113,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getCollectionReaderFromUris:org.apache.uima.collection.CollectionReader(java.util.Collection)",
+            "container call count": 0,
+            "function node size": 77,
+            "function edge size": 113,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getDescriptionFromDirectory:org.apache.uima.collection.CollectionReaderDescription(java.io.File)",
+            "container call count": 0,
+            "function node size": 79,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getDescriptionFromDirectory:org.apache.uima.collection.CollectionReaderDescription(java.io.File, java.lang.Class, java.lang.Class)",
+            "container call count": 0,
+            "function node size": 121,
+            "function edge size": 190,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getDescriptionFromFiles:org.apache.uima.collection.CollectionReaderDescription(java.util.Collection)",
+            "container call count": 0,
+            "function node size": 79,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getDescriptionFromUris:org.apache.uima.collection.CollectionReaderDescription(java.util.Collection)",
+            "container call count": 0,
+            "function node size": 79,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getNext:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 132,
+            "function edge size": 242,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.getProgress:org.apache.uima.util.Progress[]()",
+            "container call count": 0,
+            "function node size": 82,
+            "function edge size": 117,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.hasNext:boolean()",
+            "container call count": 0,
+            "function node size": 44,
+            "function edge size": 56,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 373,
+            "function edge size": 770,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.UriCollectionReader.isDirectoryValid:boolean()",
+            "container call count": 0,
+            "function node size": 310,
+            "function edge size": 639,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.XReader.<init>:void()",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.XReader.getNext:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 337,
+            "function edge size": 664,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.XReader.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 208,
+            "function edge size": 392,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.DefaultLineHandler.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.DefaultLineHandler.handleLine:void(org.apache.uima.jcas.JCas, java.io.File, java.io.File, java.lang.String)",
+            "container call count": 0,
+            "function node size": 206,
+            "function edge size": 386,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.DefaultLineHandler.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 30,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.<init>:void()",
+            "container call count": 0,
+            "function node size": 31,
+            "function edge size": 33,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.close:void()",
+            "container call count": 0,
+            "function node size": 26,
+            "function edge size": 23,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.getNext:void(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 183,
+            "function edge size": 338,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.getProgress:org.apache.uima.util.Progress[]()",
+            "container call count": 0,
+            "function node size": 77,
+            "function edge size": 106,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.hasNext:boolean()",
+            "container call count": 0,
+            "function node size": 476,
+            "function edge size": 1037,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 595,
+            "function edge size": 1191,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReader.moveToNextFile:boolean()",
+            "container call count": 0,
+            "function node size": 248,
+            "function edge size": 487,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReaderXmiWriter.<init>:void()",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReaderXmiWriter.getDescription:org.apache.uima.analysis_engine.AnalysisEngineDescription(java.io.File)",
+            "container call count": 0,
+            "function node size": 78,
+            "function edge size": 112,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.LineReaderXmiWriter.getXmiFile:java.io.File(org.apache.uima.jcas.JCas)",
+            "container call count": 0,
+            "function node size": 243,
+            "function edge size": 488,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.SimpleLineHandler.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.SimpleLineHandler.handleLine:void(org.apache.uima.jcas.JCas, java.io.File, java.io.File, java.lang.String)",
+            "container call count": 0,
+            "function node size": 244,
+            "function edge size": 470,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.cr.linereader.SimpleLineHandler.initialize:void(org.apache.uima.UimaContext)",
+            "container call count": 0,
+            "function node size": 38,
+            "function edge size": 45,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.similarity.Levenshtein.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.similarity.Levenshtein.editDistance:int(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 626,
+            "function edge size": 1336,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.similarity.Levenshtein.similarity:float(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 71,
+            "function edge size": 118,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode.<init>:void()",
+            "container call count": 0,
+            "function node size": 37,
+            "function edge size": 43,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode._initTerminalNodes:void(org.cleartk.util.treebank.TreebankNode)",
+            "container call count": 0,
+            "function node size": 86,
+            "function edge size": 142,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode.getTerminal:org.cleartk.util.treebank.TreebankNode(int)",
+            "container call count": 0,
+            "function node size": 69,
+            "function edge size": 116,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode.getTerminalCount:int()",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode.getTreebankParse:java.lang.String()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode.initTerminalNodes:void()",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 42,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TopTreebankNode.setTreebankParse:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.<clinit>:void()",
+            "container call count": 0,
+            "function node size": 68,
+            "function edge size": 65,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.<init>:void()",
+            "container call count": 0,
+            "function node size": 28,
+            "function edge size": 27,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.checkText:void(org.cleartk.util.treebank.TreebankNode, java.lang.String)",
+            "container call count": 0,
+            "function node size": 133,
+            "function edge size": 199,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.getLeafNode:org.cleartk.util.treebank.TreebankNode(java.lang.String)",
+            "container call count": 0,
+            "function node size": 86,
+            "function edge size": 98,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.getTagsFromType:java.lang.String[](java.lang.String)",
+            "container call count": 0,
+            "function node size": 179,
+            "function edge size": 343,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.getToken:java.lang.String(java.lang.String, java.lang.String)",
+            "container call count": 0,
+            "function node size": 192,
+            "function edge size": 286,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.getType:java.lang.String(java.lang.String)",
+            "container call count": 0,
+            "function node size": 53,
+            "function edge size": 68,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.getTypeFromType:java.lang.String(java.lang.String)",
+            "container call count": 0,
+            "function node size": 68,
+            "function edge size": 94,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.inferPlainText:java.lang.String(java.lang.String)",
+            "container call count": 0,
+            "function node size": 359,
+            "function edge size": 671,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.movePastWhiteSpaceChars:int(java.lang.String, int)",
+            "container call count": 0,
+            "function node size": 51,
+            "function edge size": 66,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.needsSpaceAfter:boolean(java.lang.String)",
+            "container call count": 0,
+            "function node size": 152,
+            "function edge size": 283,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.needsSpaceBefore:boolean(java.lang.String)",
+            "container call count": 0,
+            "function node size": 232,
+            "function edge size": 427,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.parensMatch:boolean(java.lang.String)",
+            "container call count": 0,
+            "function node size": 113,
+            "function edge size": 223,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.parse:org.cleartk.util.treebank.TopTreebankNode(java.lang.String)",
+            "container call count": 0,
+            "function node size": 45,
+            "function edge size": 42,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.parse:org.cleartk.util.treebank.TopTreebankNode(java.lang.String, java.lang.String, int)",
+            "container call count": 4,
+            "function node size": 4224,
+            "function edge size": 10184,
+            "container pre flow size": 4,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.parseDocument:java.util.List(java.lang.String, int, java.lang.String)",
+            "container call count": 0,
+            "function node size": 101,
+            "function edge size": 160,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.prepareString:java.lang.String(java.lang.String)",
+            "container call count": 0,
+            "function node size": 80,
+            "function edge size": 85,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankFormatParser.splitSentences:java.lang.String[](java.lang.String)",
+            "container call count": 0,
+            "function node size": 314,
+            "function edge size": 642,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.<init>:void()",
+            "container call count": 0,
+            "function node size": 42,
+            "function edge size": 53,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.addChild:void(org.cleartk.util.treebank.TreebankNode)",
+            "container call count": 0,
+            "function node size": 36,
+            "function edge size": 38,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.displayText:java.lang.String()",
+            "container call count": 0,
+            "function node size": 32,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.displayText:java.lang.String(int)",
+            "container call count": 0,
+            "function node size": 158,
+            "function edge size": 211,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getAncestor:org.cleartk.util.treebank.TreebankNode(int)",
+            "container call count": 0,
+            "function node size": 147,
+            "function edge size": 338,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getChildren:java.util.List()",
+            "container call count": 0,
+            "function node size": 34,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getParent:org.cleartk.util.treebank.TreebankNode()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getParseBegin:int()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getParseEnd:int()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getTabs:java.lang.String(int)",
+            "container call count": 0,
+            "function node size": 62,
+            "function edge size": 88,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getTags:java.lang.String[]()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getText:java.lang.String()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getTextBegin:int()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getTextEnd:int()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getTopNode:org.cleartk.util.treebank.TopTreebankNode()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getTreebankParse:java.lang.String()",
+            "container call count": 0,
+            "function node size": 44,
+            "function edge size": 51,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getType:java.lang.String()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.getValue:java.lang.String()",
+            "container call count": 0,
+            "function node size": 33,
+            "function edge size": 36,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.isLeaf:boolean()",
+            "container call count": 0,
+            "function node size": 32,
+            "function edge size": 34,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setChildren:void(java.util.List)",
+            "container call count": 0,
+            "function node size": 53,
+            "function edge size": 71,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setLeaf:void(boolean)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setParent:void(org.cleartk.util.treebank.TreebankNode)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setParseBegin:void(int)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setParseEnd:void(int)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setTags:void(java.lang.String[])",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setText:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setTextBegin:void(int)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setTextEnd:void(int)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setTopNode:void(org.cleartk.util.treebank.TopTreebankNode)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setType:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        },
+        {
+            "function name": "org.cleartk.util.treebank.TreebankNode.setValue:void(java.lang.String)",
+            "container call count": 0,
+            "function node size": 29,
+            "function edge size": 29,
+            "container pre flow size": 0,
+            "container post flow size": 0
+        }
+    ]
+}

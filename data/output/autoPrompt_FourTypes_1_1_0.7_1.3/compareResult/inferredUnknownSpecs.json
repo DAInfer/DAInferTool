@@ -1,0 +1,85 @@
+{
+    "inferredUnknownSpecs": [
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "Object getObject(String parameterName, Map map)",
+            "Object getObject(int parameterIndex)",
+            0.0,
+            1,
+            "[]-->(2, 0)"
+        ],
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "Object getObject(String parameterName, Map map)",
+            "Object getObject(String parameterName)",
+            1.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.TreeMap",
+            "java.util.TreeMap",
+            "V put(K key, V value)",
+            "V remove(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.TreeMap",
+            "java.util.TreeMap",
+            "V putIfAbsent(K key, V value)",
+            "V remove(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.util.TreeMap",
+            "java.util.TreeMap",
+            "boolean replace(K key, V oldValue, V newValue)",
+            "V remove(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(3, 0)"
+        ],
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "void setObject(String parameterName, Object x, SQLType targetSqlType, int scaleOrLength)",
+            "Object getObject(String parameterName, Map map)",
+            1.0,
+            1,
+            "[(1, 1)]-->(3, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void andNot(BitSet set)",
+            "BitSet valueOf(byte[] bytes)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.util.TreeMap",
+            "java.util.TreeMap",
+            "V merge(K key, V value, BiFunction remappingFunction)",
+            "V remove(Object key)",
+            2.0,
+            1,
+            "[(1, 1)]-->(2, 0)"
+        ],
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "void setObject(int parameterIndex, Object x, SQLType targetSqlType, int scaleOrLength)",
+            "Object getObject(String parameterName, Map map)",
+            0.0,
+            1,
+            "[(2, 2)]-->(3, 0)"
+        ]
+    ]
+}

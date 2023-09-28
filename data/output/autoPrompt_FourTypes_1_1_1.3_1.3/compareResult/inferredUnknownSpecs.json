@@ -1,0 +1,49 @@
+{
+    "inferredUnknownSpecs": [
+        [
+            "java.security.KeyStore",
+            "java.security.KeyStore",
+            "KeyStore getInstance(String type, String provider)",
+            "String getType()",
+            1.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void or(BitSet set)",
+            "BitSet valueOf(long[] longs)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void and(BitSet set)",
+            "BitSet valueOf(long[] longs)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.util.BitSet",
+            "java.util.BitSet",
+            "void xor(BitSet set)",
+            "BitSet valueOf(long[] longs)",
+            0.0,
+            1,
+            "[]-->(1, 0)"
+        ],
+        [
+            "java.sql.CallableStatement",
+            "java.sql.CallableStatement",
+            "void setObject(String parameterName, Object x, SQLType targetSqlType, int scaleOrLength)",
+            "Object getObject(String parameterName, Map map)",
+            1.0,
+            1,
+            "[(1, 1)]-->(3, 0)"
+        ]
+    ]
+}

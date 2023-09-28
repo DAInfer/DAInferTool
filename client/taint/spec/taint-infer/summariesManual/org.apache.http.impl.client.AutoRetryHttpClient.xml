@@ -1,0 +1,5 @@
+<summary fileFormatVersion="101">
+	<hierarchy superClass="java.lang.Object">
+		<interface name="org.apache.http.client.HttpClient" />
+	</hierarchy>
+</summary>

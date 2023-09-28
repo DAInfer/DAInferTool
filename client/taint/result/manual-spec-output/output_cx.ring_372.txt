@@ -1,0 +1,550 @@
+[main] WARN soot.jimple.infoflow.methodSummary.data.provider.LazySummaryProvider - Lazy loading summaries from a jar/zip file might throw a ClosedChannelException. Use the EagerSummaryProvider instead.
+[main] INFO soot.jimple.infoflow.cmd.MainClass - Analyzing app /home/user/FlowDroid/subjects/pj8/cx.ring_372.apk (1 of 1)...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Initializing Soot...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Loading dex files...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - ARSC file parsing took 0.108475361 seconds
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Registered a memory warning system for 18,431.1 MiB
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 40 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot generate constructor for phantom class androidx.startup.InitializationProvider
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot generate constructor for phantom class androidx.core.content.FileProvider
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Collecting callbacks in DEFAULT mode...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Callback analysis done.
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 43 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for cx.ring.application.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for b5.j, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onLowMemory()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onTerminate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <b5.j: void onCreate()>. Local was null.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 39 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 43 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onLowMemory()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onTerminate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onCreate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <b5.j: void onCreate()>. Local was null.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 28 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 43 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onLowMemory()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onTerminate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onCreate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <b5.j: void onCreate()>. Local was null.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 19 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 43 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onLowMemory()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onTerminate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onCreate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <b5.j: void onCreate()>. Local was null.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 14 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 43 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.BroadcastReceiverEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for e9.w3, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for x6.o, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot generate constructor for phantom class androidx.fragment.app.Fragment
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.n$b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for g3.g, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.h, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for p2.a$a, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.d, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for o2.b, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.bumptech.glide.manager.c, because it is an interface and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for a3.a, because it is abstract and cannot substitute with subclass
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ActivityEntryPointCreator - Cannot generate constructor for phantom class androidx.leanback.widget.p1
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onLowMemory()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onTerminate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <cx.ring.application.a: void onCreate()>. Local was null.
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Could not create call to application callback <b5.j: void onCreate()>. Local was null.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 2 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Shutting down the memory warning system...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Callback analysis terminated normally
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Entry point calculation done.
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.http.CsrfBeanDefinitionParser: org.springframework.beans.factory.config.BeanDefinition getCsrfLogoutHandler)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.http.FormLoginBeanDefinitionParser: java.lang.String getLoginPage)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <com.google.auth.oauth2.UserCredentials: java.lang.String getClientSecret)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.web.servlet.tags.UrlTag: java.lang.String createUrl)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.apache.xmlrpc.webserver.RequestData: java.lang.String getMethod)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.dmfs.oauth2.client.http.requests.ResourceOwnerPasswordTokenRequest: org.dmfs.httpclient.HttpRequestEntity requestEntity)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.concurrent.DelegatingSecurityContextExecutorService: java.util.concurrent.ExecutorService getDelegate)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.annotation.web.builders.HttpSecurity: org.springframework.security.config.'annotation'.web.configurers.HeadersConfigurer headers)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.web.servlet.tags.EscapeBodyTag: java.lang.String readBodyContent)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.http.FormLoginBeanDefinitionParser: java.lang.String getLoginProcessingUrl)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.annotation.web.configurers.LogoutConfigurer: java.util.List getLogoutHandlers)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.apache.xmlrpc.webserver.RequestData: java.lang.String getHttpVersion)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.apache.xmlrpc.webserver.HttpServletRequestImpl: void parseParameters)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match:     
+[main] INFO soot.jimple.infoflow.android.source.AccessPathBasedSourceSinkManager - Created a SourceSinkManager with 71 sources, 193 sinks, and 226 callback methods.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Collecting callbacks and building a callgraph took 73 seconds
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Running data flow analysis on /home/user/FlowDroid/subjects/pj8/cx.ring_372.apk with 71 sources and 193 sinks...
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Implicit flow tracking is NOT enabled
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Exceptional flow tracking is enabled
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Running with a maximum access path length of 5
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Using path-agnostic result collection
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Recursive access path shortening is enabled
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Taint analysis enabled: true
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Using alias algorithm FlowSensitive
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Registered a memory warning system for 18,431.1 MiB
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Callgraph construction took 0 seconds
+[main] INFO soot.jimple.infoflow.codeOptimization.InterproceduralConstantValuePropagator - Removing side-effect free methods is disabled
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Dead code elimination took 1.481098218 seconds
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Callgraph has 38251 edges
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Starting Taint Analysis
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Using context- and flow-sensitive solver
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Using context- and flow-sensitive solver
+[main] WARN soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Running with limited join point abstractions can break context-sensitive path builders
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Looking for sources and sinks...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Source lookup done, found 14 sources and 461 sinks.
+[Low memory monitor] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Triggering memory warning at 19809 MB (21473 MB max, 19798 in watched memory pool)...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Taint wrapper hits: 316494
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Taint wrapper misses: 90363430
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - IFDS problem with 21461702 forward and 41808608 backward edges solved in 449 seconds, processing 7 results...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Current memory consumption: 19948 MB
+[Low memory monitor] WARN soot.jimple.infoflow.memory.FlowDroidMemoryWatcher - Running out of memory, solvers terminated
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Memory consumption after cleanup: 524 MB
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$ShutdownBatchPathBuilder - Running path reconstruction batch 1 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$ShutdownBatchPathBuilder - Running path reconstruction batch 2 with 2 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Obtainted 2 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.DefaultPathBuilderFactory$RepeatableContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Shutting down the memory warning system...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Memory consumption after path building: 526 MB
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Path reconstruction took 1 seconds
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r4 = interfaceinvoke $r4.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)>("lastPosLongitude", $r5) in method <cx.ring.service.LocationSharingService: void onLocationChanged(android.location.Location)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $d0 = virtualinvoke $r1.<android.location.Location: double getLongitude()>() in method <cx.ring.service.LocationSharingService: void onLocationChanged(android.location.Location)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r1.<java.io.OutputStream: void write(byte[],int,int)>($r2, 0, $i0) in method <j8.f: void j(java.io.InputStream,java.io.OutputStream)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r9 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>($i0) in method <m5.k: java.lang.Object call()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r9 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>($i0) in method <m5.k: java.lang.Object call()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r4 = interfaceinvoke $r4.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)>("lastPosLatitude", $r5) in method <cx.ring.service.LocationSharingService: void onLocationChanged(android.location.Location)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $d0 = virtualinvoke $r1.<android.location.Location: double getLatitude()>() in method <cx.ring.service.LocationSharingService: void onLocationChanged(android.location.Location)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r18.<java.io.Writer: void write(char[],int,int)>($r19, 0, $i0) in method <m5.v: void run()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r17 = virtualinvoke $r9.<java.net.URLConnection: java.io.InputStream getInputStream()>() in method <m5.v: void run()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink staticinvoke <android.util.Log: int w(java.lang.String,java.lang.String)>("w", $r2) in method <m5.v: void run()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r17 = virtualinvoke $r9.<java.net.URLConnection: java.io.InputStream getInputStream()>() in method <m5.v: void run()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink staticinvoke <android.util.Log: int w(java.lang.String,java.lang.String)>("NotifManCompat", $r10) in method <h0.y$e: boolean handleMessage(android.os.Message)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r21 = virtualinvoke $r19.<android.content.pm.PackageManager: java.util.List queryIntentServices(android.content.Intent,int)>($r20, 0) in method <h0.y$e: boolean handleMessage(android.os.Message)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Data flow solver took 457 seconds. Maximum memory consumption: 19948 MB
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Found 6 leaks

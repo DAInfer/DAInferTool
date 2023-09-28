@@ -1,0 +1,5 @@
+<summary fileFormatVersion="101">
+	<hierarchy superClass="java.io.InputStream">
+		<interface name="java.io.Closeable" />
+	</hierarchy>
+</summary>

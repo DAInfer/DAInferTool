@@ -1,0 +1,6 @@
+<summary fileFormatVersion="101">
+	<hierarchy superClass="org.apache.http.impl.client.DefaultHttpClient">
+		<interface name="org.apache.http.client.HttpClient" />
+		<interface name="java.io.Closeable" />
+	</hierarchy>
+</summary>

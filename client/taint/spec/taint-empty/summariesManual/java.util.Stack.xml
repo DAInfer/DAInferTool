@@ -1,0 +1,49 @@
+<summary fileFormatVersion="101">
+	<hierarchy superClass="java.util.Vector">
+		<interface name="java.util.List" />
+		<interface name="java.util.Collection" />
+		<interface name="java.util.RandomAccess" />
+		<interface name="java.lang.Iterable" />
+		<interface name="java.lang.Cloneable" />
+		<interface name="java.io.Serializable" />
+	</hierarchy>
+    <methods>
+		<method id="java.lang.Object clone()">
+            <flows>
+                <flow isAlias="true">
+                    <from sourceSinkType="Field" />
+                    <to sourceSinkType="Return" />
+                </flow>
+            </flows>
+        </method>
+		<method id="void copyInto(java.lang.Object[])">
+			<flows>
+				<flow isAlias="false" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[java.util.Collection: java.lang.Object[] innerArray]" AccessPathTypes="[java.lang.Object[]]" />
+					<to sourceSinkType="Parameter" ParameterIndex="0" />
+				</flow>
+			</flows>
+		</method>
+		<method id="java.util.Enumeration elements()">
+			<flows>
+				<flow isAlias="false" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[java.util.Collection: java.lang.Object[] innerArray]" AccessPathTypes="[java.lang.Object[]]" />
+					<to sourceSinkType="Return" AccessPath="[java.util.Enumeration: java.util.Collection innerCollection,java.util.Collection: java.lang.Object[] innerArray]" AccessPathTypes="[java.util.Collection,java.lang.Object[]]" />
+				</flow>
+			</flows>
+		</method>
+		<method id="void removeAllElements()">
+			<clears>
+				<clear sourceSinkType="Field" AccessPath="[java.util.Collection: java.lang.Object[] innerArray]" />
+			</clears>
+		</method>
+		<method id="java.lang.String toString()">
+			<flows>
+				<flow isAlias="false" typeChecking="false">
+					<from sourceSinkType="Field" AccessPath="[java.util.Collection: java.lang.Object[] innerArray]" AccessPathTypes="[java.lang.Object[]]" />
+					<to sourceSinkType="Return" />
+				</flow>
+			</flows>
+		</method>
+    </methods>
+</summary>
